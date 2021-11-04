@@ -1,3 +1,3 @@
 function displayResult() {
-  document.getElementById("ancient").innerHTML = "Great Pyramid of Giza";
+  document.getElementById("button").innerHTML = "Thanks for signing up!";
   }
